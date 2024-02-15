@@ -2,7 +2,7 @@
 public class Fabbinoseries {
 
 	public static void main(String[] args) {
-		int range=19;
+		int range=20;
 		int firstno=0;
 		int secondno=1;
 
